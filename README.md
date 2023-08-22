@@ -11,12 +11,12 @@ Alice Morris
 
 2. Requirements Document
 	| abbreviated title | description of the source | description of the proposed symbolization |
-	|---||---||---|
+	| --- | --- | --- |
 	|Basemaps|basemap tileset from the USGS|National map and topomap from USGS|
 	|Data|34 papers containing close to 700 unique samples of AHe and AFT data|Point feature, colored based on source|
 	
 	| abbreviated title | coding by operator and operand | description of the proposed interaction behavior and UI design |
-	|---||---||---|
+	| --- | --- | --- |
 	|Table|Link to external source|A source can be clicked to take one directly to the paper|
 	|Map/Data|On click of data: popup|Data can be clicked and a popup of sample name, source, age and std in M.a. appears. Related source in the table would also be highlighted|
 	|Layers|Dropdown menu switch data|Dropdown menu which can switch data from AFT and AHe|
