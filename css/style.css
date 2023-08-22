@@ -1,0 +1,56 @@
+/*Add CSS styles here*/
+#map { 
+	height: 720px; 
+	width: 53%;
+	display: block;
+	border: 5px solid #999;
+	float: left;
+ }
+ 
+.dropdown {
+	position: relative;
+	z-index: 10000;
+	font-family: sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 10px;
+	border: 1px solid #999;
+	box-shadow: 2px 2px 4px #999;
+}
+ 
+#chart {
+	overflow: hidden;
+	display: block;
+    background-color: rgba(128,128,128,.2);
+    border: medium solid #999;
+}
+
+#table {  
+	width: 12%;
+	height: auto;
+	display: block;
+	background-color: rgba(128,128,128,.2);
+	border: 5px solid #999;
+	padding: 10px;
+	text-align: left;
+	float: left;
+	line-height: 1.425;
+}
+ 
+a:link, a:visited {
+  color: #0F204B;
+  font-size: 15px;
+}
+
+#title { 
+	width: 100%;
+	height: auto; 
+	border: medium solid #000;
+	text-align: center;
+	background-color: #0F204B;
+	color: #FFB612;
+}
+
+.highlight {
+	background-color: yellow;
+}
